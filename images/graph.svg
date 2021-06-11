@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="location">
+    </g>
+    <g id="finance" transform="matrix(1.01168,0,0,1.01168,-506.309,-254.348)">
+        <g transform="matrix(1.01835,0,0,1.01835,614.322,204.953)">
+            <rect x="82.322" y="200.943" width="2.912" height="660.001" style="fill:rgb(229,230,233);"/>
+        </g>
+        <g transform="matrix(0.284101,0,0,1.07918,674.274,323.719)">
+            <rect x="101.453" y="246.798" width="695.848" height="91.593" style="fill:rgb(254,227,18);"/>
+        </g>
+        <g transform="matrix(0.852303,0,0,1.07918,616.629,521.41)">
+            <rect x="101.453" y="246.798" width="695.848" height="91.593" style="fill:rgb(251,84,28);"/>
+        </g>
+    </g>
+</svg>
